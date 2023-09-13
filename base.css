@@ -56,3 +56,14 @@ th, td {
 th{
   background-color: rgb(162, 161, 161);
 }
+
+.linha{
+  display: flex;
+  flex-direction: column;
+}
+
+fieldset{
+    border-radius: 10px;
+    border-color: rgb(38, 208, 80);
+    margin: 5px 0;
+}
